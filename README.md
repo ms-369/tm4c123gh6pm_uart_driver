@@ -1,6 +1,4 @@
 # TRAINING-432: Training Road Map 2025 | Mariyam  
-[Project Jira Link](https://maanzai.atlassian.net/browse/TRAINING-432)  
-[Training Plan for Embedded Software Engineer](https://maanzai.atlassian.net/wiki/spaces/MES/pages/257458198/Training+plan+for+Embedded+Software+Engineer)
 
 | Version  | Change  |
 |---|---|
